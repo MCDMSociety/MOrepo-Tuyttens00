@@ -1,0 +1,14 @@
+{
+   "folder": "Tuyttens00",
+   "maintainer" : "Lars Relund <junk@relund.dk>",
+   "instanceGroups": [
+      {
+         "subfolder": "",
+         "class": "Assignment problem",
+         "tags": [ "ap", "assignmentProblem", "bi-AP"],
+         "format": [ "raw", "xml" ],
+         "desc": "Instances for the bi-objective assignment problem.",
+         "creator" : "D. Tuyttens, J. Teghem, Ph. Fortemps and K. van Nieuwenhuyze"
+      }
+   ]
+}
