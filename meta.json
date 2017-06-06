@@ -5,6 +5,7 @@
       {
          "subfolder": "",
          "class": "Assignment",
+         "objectives": 2,
          "tags": [ "ap", "assignmentProblem", "bi-AP"],
          "format": [ "raw", "xml" ],
          "desc": "Instances for the bi-objective assignment problem.",
