@@ -3,7 +3,7 @@
 The paper consider 10 instances for the classical bi-objective linear assignment problem. Instances
 are named `Tuyttens_AP_n<n>.<raw/xml>` where `n` is the size of the problem. The paper considers
 instances of size 5-50; however, the instance set also contains 5 instances of size 60-100. Costs
-are generated random in [0,30].
+are generated random in [0,19].
 
 All instance files are given in both xml and raw format. The xml format is self explainable (see
 e.g. [ex1](./instances/xml/Tuyttens_AP_n05.xml)).
